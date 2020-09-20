@@ -1,2 +1,3 @@
-# jogo-da-forca
-Jogo da forca simples com C++
+# Jogo da forca
+
+Criado apenas para estudos de C++
